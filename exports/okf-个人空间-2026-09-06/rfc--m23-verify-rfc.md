@@ -1,0 +1,16 @@
+---
+type: rfc
+title: m23 verify rfc
+status: concluded
+stale_after: 2026-09-20
+created: 2026-09-06
+updated: 2026-09-06
+---
+
+# m23 verify rfc
+
+??????????????
+
+## 结论
+
+?????BusinessException
